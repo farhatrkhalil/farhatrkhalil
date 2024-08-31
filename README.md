@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <h3 style="text-align: left;">HOW TO REACH ME:</h3>
 farhatrkhalil@gmail.com <br>
-https://khalilfarhat.netlify.app/
+<a href="https://khalilfarhat.netlify.app/" target="_blank">Visit My Website</a>
 <h3 style="text-align: left;">CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/farhatrkhalil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalil farhat" height="30" width="40" /></a>
