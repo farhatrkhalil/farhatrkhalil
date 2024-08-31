@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalil Farhat</h1>
-<h3 align="center">Computer Scientist | Google Data Analytics Certified | Google Cybersecurity Certified</h3>
 <h3 align="center"> Computer Scientist | Data Science Graduate | AWS Cloud Solutions Architect | Google Data Analytics Certified | Google Cybersecurity Certified </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalilfarhat&label=Profile%20views&color=0e75b6&style=flat" alt="khalilfarhat" /> </p>
 
 - 📫 How to reach me **farhatrkhalil@gmail.com**
 
