@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khalil Farhat</h1>
 <h3 align="center"> Computer Scientist | Data Science Graduate | AWS Cloud Solutions Architect | Google Data Analytics Certified | Google Cybersecurity Certified </h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <p>As a dedicated computer scientist, I am committed to advancing the fields of data science, cybersecurity, and DevOps through innovation and problem-solving. My expertise spans various technologies and methodologies, with a focus on developing scalable and sustainable solutions.</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <h3 style="text-align: left;">HOW TO REACH ME:</h3>
 <a href="mailto:farhatrkhalil@gmail.com">farhatrkhalil@gmail.com</a> <br>
 <a href="https://khalilfarhat.netlify.app/">Portfolio Site</a>
