@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalil Farhat</h1>
 <h3 align="center"> Computer Scientist | Data Science Graduate | AWS Cloud Solutions Architect | Google Data Analytics Certified | Google Cybersecurity Certified </h3>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 - 📫 How to reach me **farhatrkhalil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
