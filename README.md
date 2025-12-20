@@ -19,10 +19,3 @@
 **Infrastructure as Code / البنية التحتية كرمز:** Terraform, CloudFormation, Ansible  
 **AI & Data / الذكاء الاصطناعي وبيانات:** Python, TensorFlow, SQL Server, PostgreSQL, Vector Databases  
 **Security & Automation / الأمان والأتمتة:** Linux, Git, CI/CD, Google Cybersecurity Certified  
-
----
-
-### 🚀 Active Labs / المشاريع العملية
-- **Multi-Cloud Failover / الانتقال بين السحابات:** Automated disaster recovery between AWS & Azure / الاسترداد التلقائي للطوارئ  
-- **AI Infrastructure Scaling / توسيع البنية التحتية للذكاء الاصطناعي:** From notebooks to production / من النوتبوك إلى بيئات الإنتاج  
-- **Cloud FinOps / إدارة تكاليف السحابة:** Optimize resource lifecycle & reduce waste / تحسين دورة حياة الموارد وتقليل الهدر
