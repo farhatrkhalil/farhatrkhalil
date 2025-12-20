@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Khalil Farhat | مرحبًا، أنا خليل فرحات</h1>
-<h3 align="center">Cloud Solutions Architect | Multi-Cloud Infrastructure (AWS & Azure) | AI Ops & DevOps Specialist | مهندس حلول سحابية | البنية التحتية متعددة السحابة</h3>
+<h1 align="center">Hi 👋, I'm Khalil Farhat</h1>
+<h3 align="center">Cloud Solutions Architect | Multi-Cloud Infrastructure (AWS & Azure) | AI Ops & DevOps Specialist</h3>
 
 <p align="center">
-  <strong>The Hardware / القدرات:</strong> 3.75 GPA Computer Scientist / حاصل على معدل 3.75<br>
-  <strong>The Mission / المهمة:</strong> Architecting high-availability, multi-cloud systems for AI/ML production / تصميم أنظمة عالية التوافر متعددة السحابة لتشغيل نماذج الذكاء الاصطناعي والتعلم الآلي<br>
-  <strong>The Method / الأسلوب:</strong> Infrastructure as Code (Terraform) & Zero-Trust Networking / البنية التحتية كرمز وشبكات بلا ثقة
+  <strong>Expertise:</strong> 3.75 GPA Computer Scientist<br>
+  <strong>Mission:</strong> Architecting high-availability, multi-cloud systems for AI/ML production<br>
+  <strong>Approach:</strong> Infrastructure as Code (Terraform) & Zero-Trust Networking
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 
 ---
 
-### 🏗️ Core Technical Stack / المهارات التقنية
-**Cloud & Orchestration / السحابة:** AWS, Azure, Docker, Kubernetes  
-**Infrastructure as Code / البنية التحتية كرمز:** Terraform, CloudFormation, Ansible  
-**AI & Data / الذكاء الاصطناعي وبيانات:** Python, TensorFlow, SQL Server, PostgreSQL, Vector Databases  
-**Security & Automation / الأمان والأتمتة:** Linux, Git, CI/CD, Google Cybersecurity Certified  
+### 🏗️ Core Technical Stack
+**Cloud & Orchestration:** AWS, Azure, Docker, Kubernetes  
+**Infrastructure as Code (IaC):** Terraform, CloudFormation, Ansible  
+**AI & Data:** Python, TensorFlow, SQL Server, PostgreSQL, Vector Databases  
+**Security & Automation:** Linux, Git, CI/CD, Google Cybersecurity Certified
