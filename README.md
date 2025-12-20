@@ -3,8 +3,8 @@
 
 <p align="center">
   <strong>The Hardware / القدرات:</strong> 3.75 GPA Computer Scientist / حاصل على معدل 3.75<br>
-  <strong>The Mission / المهمة:</strong> Architecting high-availability, multi-cloud systems for AI/ML production environments / تصميم أنظمة عالية التوافر متعددة السحابة لتشغيل نماذج الذكاء الاصطناعي والتعلم الآلي<br>
-  <strong>The Method / الأسلوب:</strong> Infrastructure as Code (Terraform) & Zero-Trust Networking / البنية التحتية كرمز (Terraform) وشبكات بلا ثقة
+  <strong>The Mission / المهمة:</strong> Architecting high-availability, multi-cloud systems for AI/ML production / تصميم أنظمة عالية التوافر متعددة السحابة لتشغيل نماذج الذكاء الاصطناعي والتعلم الآلي<br>
+  <strong>The Method / الأسلوب:</strong> Infrastructure as Code (Terraform) & Zero-Trust Networking / البنية التحتية كرمز وشبكات بلا ثقة
 </p>
 
 <p align="center">
@@ -15,22 +15,14 @@
 ---
 
 ### 🏗️ Core Technical Stack / المهارات التقنية
-**Cloud & Orchestration / السحابة والتنسيق:** AWS (Solutions Architect), Azure (Networking & Security focus), Docker, Kubernetes  
-**Infrastructure as Code (IaC) / البنية التحتية كرمز:** Terraform, CloudFormation, Ansible  
-**AI & Data Infrastructure / الذكاء الاصطناعي وبيانات:** Python, TensorFlow, SQL Server, PostgreSQL, Vector Databases  
-**Security & Automation / الأمان والأتمتة:** Linux (Bash), Google Cybersecurity Certified, Git, CI/CD Pipelines  
+**Cloud & Orchestration / السحابة:** AWS, Azure, Docker, Kubernetes  
+**Infrastructure as Code / البنية التحتية كرمز:** Terraform, CloudFormation, Ansible  
+**AI & Data / الذكاء الاصطناعي وبيانات:** Python, TensorFlow, SQL Server, PostgreSQL, Vector Databases  
+**Security & Automation / الأمان والأتمتة:** Linux, Git, CI/CD, Google Cybersecurity Certified  
 
 ---
 
-### 🚀 Active Labs & Research / المشاريع والأبحاث العملية
-- **Multi-Cloud Failover / الانتقال بين السحابات:** Designing automated disaster recovery and failover between AWS and Azure / تصميم الاسترداد التلقائي للطوارئ والانتقال بين AWS و Azure  
-- **AI Infrastructure Scaling / توسيع البنية التحتية للذكاء الاصطناعي:** Transitioning LLMs and AI models from local notebooks to enterprise-grade production / نقل نماذج الذكاء الاصطناعي من النوتبوك المحلي إلى بيئات الإنتاج المؤسسية  
-- **Cloud FinOps & Cost Optimization / إدارة تكاليف السحابة:** Managing resource lifecycle to reduce waste and maximize ROI / إدارة دورة حياة الموارد لتقليل الهدر وزيادة العائد على الاستثمار  
-
----
-
-### 📈 Why This Profile Stands Out / لماذا هذا الملف الشخصي مميز
-- Highlights **architect identity** over implementer role / إبراز هوية المهندس المعماري بدلاً من منفذ المهام  
-- Emphasizes **Gulf-relevant cloud skills**: Azure networking/security & AWS solutions / التركيز على مهارات السحابة المطلوبة في الخليج: شبكات أزور وأمانها وحلول AWS  
-- Demonstrates **Infrastructure as Code & automation expertise** / إظهار الخبرة في البنية التحتية كرمز والأتمتة  
-- Shows **tangible high-value lab projects** / عرض مشاريع عملية ذات قيمة واضحة للمسؤولين عن التوظيف
+### 🚀 Active Labs / المشاريع العملية
+- **Multi-Cloud Failover / الانتقال بين السحابات:** Automated disaster recovery between AWS & Azure / الاسترداد التلقائي للطوارئ  
+- **AI Infrastructure Scaling / توسيع البنية التحتية للذكاء الاصطناعي:** From notebooks to production / من النوتبوك إلى بيئات الإنتاج  
+- **Cloud FinOps / إدارة تكاليف السحابة:** Optimize resource lifecycle & reduce waste / تحسين دورة حياة الموارد وتقليل الهدر
